@@ -1,0 +1,6 @@
+{
+  "name": "المالية الذكية",
+  "description": "تطبيق مالي ذكي يحدث ثورة في تجربة العميل عبر المصرفية المفتوحة والتحليلات المالية التنبؤية المتقدمة وتحقيق أهداف الادخار ونظام المكافآت تماشياً مع رؤية المملكة ٢٠٣٠",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
